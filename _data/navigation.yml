@@ -1,0 +1,39 @@
+main:
+  - title: "Curso"
+    url: /curso/
+  - title: "Níveis"
+    url: /niveis/
+  - title: "Blog"
+    url: /blog/
+
+courses:
+  - title: "Básico"
+    children:
+      - title: "Introdução ao Drupal"
+        url: /curso/introducao-ao-drupal/
+      - title: "Construção de Site com Drupal"
+        url: /curso/construcao-de-site-com-drupal/
+
+  - title: "Intermediário"
+    children:
+      - title: "Drupal para Desenvolvedores I"
+        url: /curso/drupal-para-desenvolvedores-1/
+      - title: "Desenvolvimento de Temas Drupal"
+        url: /curso/desenvolvimento-front-end-com-drupal/
+      - title: "Gerenciamento de Conteúdo com Drupal"
+        url: /curso/gerenciamento-de-conteudo-com-drupal/
+
+  - title: "Avançado"
+    children:
+      - title: "Drupal para Desenvolvedores II"
+        url: /curso/drupal-para-desenvolvedores-2/
+      - title: "Desenvolvimento Drupal com Configuration e Drush"
+        url: /curso/desenvolvimento-drupal-com-configuration-e-drush/
+      - title: "Segurança, Performance e Escalabilidade com Drupal"
+        url: /curso/seguranca-performance-e-escalabilidade-com-drupal/
+      - title: "Git, Controle de Versão Distribuído"
+        url: /curso/git-controle-de-versao-distribuido/
+      - title: "Estratégias para construção de um time Drupal"
+        url: /curso/estrategias-para-construcao-de-um-time-drupal/
+      - title: "Construção de e-commerce com Drupal"
+        url: /curso/construcao-de-ecommerce-com-drupal/
