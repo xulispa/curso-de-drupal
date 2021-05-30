@@ -4,9 +4,9 @@ title: "Estratégias para construção de um time Drupal"
 layout: single
 number: 10
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-016.jpg
+  teaser: /assets/images/teasers/estrategias-para-construcao-de-um-time.jpg
+  og_image: /assets/images/teasers/estrategias-para-construcao-de-um-time.jpg
 ---
 
 ### Duração: 8 horas - Nível: Avançado

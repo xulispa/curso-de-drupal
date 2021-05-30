@@ -4,9 +4,9 @@ title: "Construção de e-commerce com Drupal"
 layout: single
 number: 11
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-017.jpg
+  teaser: /assets/images/teasers/construcao-de-ecommerce.jpg
+  og_image: /assets/images/teasers/construcao-de-ecommerce.jpg
 ---
 
 ### Duração: 12 horas - Nível: Avançado

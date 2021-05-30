@@ -4,9 +4,9 @@ title: "Construção de Site com Drupal"
 layout: single
 number: 2
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-008.jpg
+  teaser: /assets/images/teasers/construcao-de-site.jpg
+  og_image: /assets/images/teasers/construcao-de-site.jpg
 ---
 
 ### Duração: 16 horas - Nível: Básico

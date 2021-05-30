@@ -4,9 +4,9 @@ title: "Segurança, Performance e Escalabilidade com Drupal"
 layout: single
 number: 8
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-014.jpg
+  teaser: /assets/images/teasers/seguranca-performance-e-escalabilidade.jpg
+  og_image: /assets/images/teasers/seguranca-performance-e-escalabilidade.jpg
 ---
 
 ### Duração: 10 horas - Nível: Avançado
