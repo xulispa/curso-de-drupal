@@ -2,8 +2,8 @@
 permalink: /niveis/
 title: "Níveis"
 header:
-  image: /assets/images/headers/header-002.jpg
-  og_image: /assets/images/headers/header-02.jpg
+  image: /assets/images/headers/header-006.jpg
+  og_image: /assets/images/level-fbapp.png
 sidebar:
   nav: "courses"
 basic:

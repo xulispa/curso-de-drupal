@@ -11,8 +11,8 @@ header:
   actions:
     - label: "Acesse agora: CURSO DRUPAL 9 GRÁTIS - em andamento"
       url: "https://drupal.org.br/curso-drupal-9-gratis"
-  image: /assets/images/headers/header-01.jpg
-  og_image: /assets/images/headers/header-01.jpg
+  image: /assets/images/1200x1200.png
+  og_image: /assets/images/1200x1200.png
 ---
 
 Nós prezamos pela **alta qualidade** do conteúdo da informação compartilhada, das políticas, filosofias, dos métodos e processos aplicados nos trabalhos e principalmente, dos **treinamentos ministrados**.

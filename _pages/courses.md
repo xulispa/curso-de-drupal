@@ -7,8 +7,8 @@ entries_layout: grid
 classes: wide
 sort_by: number
 header:
-  image: /assets/images/headers/header-002.jpg
-  og_image: /assets/images/headers/header-02.jpg
+  image: /assets/images/headers/header-005.jpg
+  og_image: /assets/images/course-fbapp.png
 sidebar:
   nav: "courses"
 ---
