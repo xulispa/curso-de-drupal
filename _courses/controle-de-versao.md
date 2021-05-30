@@ -4,9 +4,9 @@ title: "Git, Controle de Versão Distribuído"
 layout: single
 number: 9
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-015.jpg
+  teaser: /assets/images/teasers/controle-de-versao.jpg
+  og_image: /assets/images/teasers/controle-de-versao.jpg
 ---
 
 ### Duração: 6 horas - Nível: Avançado

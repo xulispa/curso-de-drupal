@@ -4,9 +4,9 @@ title: "Desenvolvimento Drupal com Configuration e Drush"
 layout: single
 number: 7
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-013.jpg
+  teaser: /assets/images/teasers/configuration-e-drush.jpg
+  og_image: /assets/images/teasers/configuration-e-drush.jpg
 ---
 
 ### Duração: 6 horas - Nível: Avançado

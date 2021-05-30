@@ -4,9 +4,9 @@ title: "Desenvolvimento de Temas Drupal"
 layout: single
 number: 4
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-010.jpg
+  teaser: /assets/images/teasers/desenvolvimento-front-end.jpg
+  og_image: /assets/images/teasers/desenvolvimento-front-end.jpg
 ---
 
 ### Duração: 14 horas - Nível: Intermediário

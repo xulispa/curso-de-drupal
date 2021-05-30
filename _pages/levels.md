@@ -9,39 +9,39 @@ sidebar:
 basic:
   - title: "Introdução ao Drupal"
     url: /curso/introducao-ao-drupal/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/introducao.jpg
   - title: "Construção de Site"
     url: /curso/construcao-de-site-com-drupal/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/construcao-de-site.jpg
 intermediary:
   - title: "Drupal para desenvolvedores I"
     url: /curso/drupal-para-desenvolvedores-1/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/para-desenvolvedores-1.jpg
   - title: "Desenvolvimento de Temas Drupal"
     url: /curso/desenvolvimento-front-end-com-drupal/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/desenvolvimento-front-end.jpg
   - title: "Gerenciamento de Conteúdo com Drupal"
     url: /curso/gerenciamento-de-conteudo-com-drupal/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/gerenciamento-de-conteudo.jpg
 advanced:
   - title: "Drupal para Desenvolvedores II"
     url: /curso/drupal-para-desenvolvedores-2/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/para-desenvolvedores-2.jpg
   - title: "Desenvolvimento Drupal com Configuration e Drush"
     url: /curso/desenvolvimento-drupal-com-configuration-e-drush/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/configuration-e-drush.jpg
   - title: "Segurança, Performance e Escalabilidade com Drupal"
     url: /curso/seguranca-performance-e-escalabilidade-com-drupal/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/seguranca-performance-e-escalabilidade.jpg
   - title: "Git, Controle de Versão Distribuído"
     url: /curso/git-controle-de-versao-distribuido/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/controle-de-versao.jpg
   - title: "Estratégias para construção de um time Drupal"
     url: /curso/estrategias-para-construcao-de-um-time-drupal/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/estrategias-para-construcao-de-um-time.jpg
   - title: "Construção de e-commerce com Drupal"
     url: /curso/construcao-de-ecommerce-com-drupal/
-    image_path: /assets/images/headers/header-03.jpg
+    image_path: /assets/images/teasers/construcao-de-ecommerce.jpg
 ---
 
 Os **cursos** são preparados para um **número reduzido de pessoas** e ministrados **exclusivamente online**.

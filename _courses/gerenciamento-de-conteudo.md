@@ -4,9 +4,9 @@ title: "Gerenciamento de Conteúdo com Drupal"
 layout: single
 number: 5
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-011.jpg
+  teaser: /assets/images/teasers/gerenciamento-de-conteudo.jpg
+  og_image: /assets/images/teasers/gerenciamento-de-conteudo.jpg
 ---
 
 ### Duração: 12 horas - Nível: Intermediário

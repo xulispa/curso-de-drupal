@@ -4,9 +4,9 @@ title: "Introdução ao Drupal"
 layout: single
 number: 1
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-007.jpg
+  teaser: /assets/images/teasers/introducao.jpg
+  og_image: /assets/images/teasers/introducao.jpg
 ---
 
 ### Duração: 2 horas - Nível: Básico

@@ -4,9 +4,9 @@ title: "Drupal para Desenvolvedores II"
 layout: single
 number: 6
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-012.jpg
+  teaser: /assets/images/teasers/para-desenvolvedores-2.jpg
+  og_image: /assets/images/teasers/para-desenvolvedores-2.jpg
 ---
 
 ### Duração: 12 horas - Nível: Avançado

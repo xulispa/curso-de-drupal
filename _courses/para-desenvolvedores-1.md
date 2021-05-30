@@ -4,9 +4,9 @@ title: "Drupal para Desenvolvedores I"
 layout: single
 number: 3
 header:
-  image: /assets/images/headers/header-003.jpg
-  teaser: /assets/images/headers/header-03.jpg
-  og_image: /assets/images/headers/header-03.jpg
+  image: /assets/images/headers/header-009.jpg
+  teaser: /assets/images/teasers/para-desenvolvedores-1.jpg
+  og_image: /assets/images/teasers/para-desenvolvedores-1.jpg
 ---
 
 ### Duração: 8 horas - Nível: Intermediário
