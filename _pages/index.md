@@ -9,7 +9,7 @@ header:
   overlay_color: "#333"
   overlay_filter: 0.5
   actions:
-    - label: "Acesse agora: CURSO DRUPAL 9 GRÁTIS - em andamento"
+    - label: "Acesse agora: CURSO DRUPAL 9 GRÁTIS"
       url: "https://drupal.org.br/curso-drupal-9-gratis"
   image: /assets/images/1200x1200.png
   og_image: /assets/images/1200x1200.png
@@ -41,5 +41,5 @@ Além dos cursos listados aqui, também **ministramos cursos personalizados**, c
 
 O **Curso de Drupal** é uma iniciativa pessoal de **Leonardo Silva**, carinhosamente conhecido na comunidade brasileira por **xulispa**, e tem origem da Spin-off **Drupal de Elite**.
 
-[Acesse agora: CURSO DRUPAL 9 GRÁTIS - em andamento](https://drupal.org.br/curso-drupal-9-gratis){: .btn .btn--info .btn--x-large}{:target="_blank"}
+[Acesse agora: CURSO DRUPAL 9 GRÁTIS](https://drupal.org.br/curso-drupal-9-gratis){: .btn .btn--info .btn--x-large}{:target="_blank"}
 {: .text-center}
