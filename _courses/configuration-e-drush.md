@@ -1,7 +1,7 @@
 ---
 permalink: /curso/desenvolvimento-drupal-com-configuration-e-drush/
 title: "Desenvolvimento Drupal com Configuration e Drush"
-layout: single
+layout: courses
 number: 7
 header:
   image: /assets/images/headers/header-013.jpg

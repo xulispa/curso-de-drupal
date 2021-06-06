@@ -1,7 +1,7 @@
 ---
 permalink: /curso/introducao-ao-drupal/
 title: "Introdução ao Drupal"
-layout: single
+layout: courses
 number: 1
 header:
   image: /assets/images/headers/header-007.jpg
@@ -11,10 +11,11 @@ header:
 
 ### Duração: 2 horas - Nível: Básico
 
-Gratuito na aquisição de pelo menos 3 módulos dos cursos.
+Apresentação das principais características e funções do Drupal.
 
 ### Conteúdo:
 
 - Estrutura básica do Drupal, terminologia;
-- Entender a Comunidade Drupal no Brasil e exterior, bem como alavancar suporte e conhecimento;
-- Demais recursos do Drupal.org;
+- Entendimento da Comunidade Drupal no Brasil e exterior;
+- Como alavancar suporte e conhecimento;
+- Recursos do Drupal.org;

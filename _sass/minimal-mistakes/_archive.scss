@@ -170,30 +170,31 @@
   @include breakpoint($medium) {
     margin-left: 0; /* override margin*/
     margin-right: 0; /* override margin*/
-    width: span(3 of 12);
+    width: span(4 of 12);
 
-    &:nth-child(2n + 1) {
+    &:nth-child(3n + 1) {
       clear: none;
+      margin-left: 0;
     }
 
-    &:nth-child(4n + 1) {
+    &:nth-child(3n + 1) {
       clear: both;
     }
 
-    &:nth-child(4n + 2) {
+    &:nth-child(3n + 2) {
       clear: none;
       margin-left: gutter(1 of 12);
     }
 
-    &:nth-child(4n + 3) {
+    &:nth-child(3n + 3) {
       clear: none;
       margin-left: gutter(1 of 12);
     }
 
-    &:nth-child(4n + 4) {
-      clear: none;
-      margin-left: gutter(1 of 12);
-    }
+    // &:nth-child(3n + 4) {
+    //   clear: none;
+    //   margin-left: gutter(of 12);
+    // }
   }
 
   .page__meta {
@@ -225,11 +226,15 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: initial;
+      max-height: 170px;
+      align-items: center;
+      display: flex;    
     }
 
     @include breakpoint($medium) {
-      max-height: initial;
+      max-height: 170px;
+      align-items: center;
+      display: flex;    
     }
   }
 }

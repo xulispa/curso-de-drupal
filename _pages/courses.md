@@ -1,6 +1,7 @@
 ---
 permalink: /curso/
 title: "Curso"
+author_profile: false
 layout: collection
 collection: courses
 entries_layout: grid
@@ -13,6 +14,8 @@ sidebar:
   nav: "courses"
 ---
 
-Os **cursos** são preparados para um **número reduzido de pessoas** e ministrados **exclusivamente online**.
+Os **cursos** são preparados para turmas com **número reduzido de pessoas** e ministrados **exclusivamente online**.
 
 Além dos cursos listados aqui, também **ministramos cursos personalizados**, confeccionados **juntos ao cliente** de acordo a **demanda** e/ou **necessidades específicas**.
+
+------

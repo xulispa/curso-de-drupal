@@ -1,7 +1,7 @@
 ---
 permalink: /curso/seguranca-performance-e-escalabilidade-com-drupal/
 title: "Segurança, Performance e Escalabilidade com Drupal"
-layout: single
+layout: courses
 number: 8
 header:
   image: /assets/images/headers/header-014.jpg

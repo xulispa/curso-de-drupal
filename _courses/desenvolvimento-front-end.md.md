@@ -1,7 +1,7 @@
 ---
 permalink: /curso/desenvolvimento-front-end-com-drupal/
 title: "Desenvolvimento de Temas Drupal"
-layout: single
+layout: courses
 number: 4
 header:
   image: /assets/images/headers/header-010.jpg

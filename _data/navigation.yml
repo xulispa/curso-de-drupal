@@ -1,8 +1,8 @@
 main:
   - title: "Curso"
     url: /curso/
-  # - title: "Níveis"
-  #   url: /niveis/
+  # - title: "Contato"
+  #   url: /contato/
   # - title: "Blog"
   #   url: /blog/
 

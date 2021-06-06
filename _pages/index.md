@@ -1,18 +1,18 @@
 ---
-permalink: /
-title: ""
+permalink: "/"
 layout: splash
 classes:
-  - landing
+- landing
 header:
-  overlay_image: /assets/images/headers/header-01.jpg
+  overlay_image: "/assets/images/headers/header-01.jpg"
   overlay_color: "#333"
   overlay_filter: 0.5
   actions:
-    - label: "Acesse agora: CURSO DRUPAL 9 GRÁTIS"
-      url: "https://www.youtube.com/cursodedrupal"
-  image: /assets/images/1200x1200.png
-  og_image: /assets/images/1200x1200.png
+  - label: 'Acesse agora: CURSO DRUPAL 9 GRÁTIS'
+    url: https://www.youtube.com/cursodedrupal
+  image: "/assets/images/1200x1200.png"
+  og_image: "/assets/images/1200x1200.png"
+share: true
 ---
 
 Nós prezamos pela **alta qualidade** do conteúdo compartilhado e principalmente, dos **[treinamentos ministrados](/curso/)**. Valorizamos **políticas descentralizadas** e somos adeptos a filosofias de **evolução** e **melhoria contínua** aplicadas em métodos e processos de trabalho.

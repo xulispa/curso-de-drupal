@@ -1,7 +1,7 @@
 ---
 permalink: /curso/gerenciamento-de-conteudo-com-drupal/
 title: "Gerenciamento de Conteúdo com Drupal"
-layout: single
+layout: courses
 number: 5
 header:
   image: /assets/images/headers/header-011.jpg

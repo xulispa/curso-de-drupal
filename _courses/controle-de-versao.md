@@ -1,7 +1,7 @@
 ---
 permalink: /curso/git-controle-de-versao-distribuido/
 title: "Git, Controle de Versão Distribuído"
-layout: single
+layout: courses
 number: 9
 header:
   image: /assets/images/headers/header-015.jpg
