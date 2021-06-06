@@ -1,10 +1,10 @@
 main:
   - title: "Curso"
     url: /curso/
-  - title: "Níveis"
-    url: /niveis/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Contato"
+  #   url: /contato/
+  # - title: "Blog"
+  #   url: /blog/
 
 courses:
   - title: "Básico"

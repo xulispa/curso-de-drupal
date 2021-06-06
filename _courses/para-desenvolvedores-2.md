@@ -1,7 +1,7 @@
 ---
 permalink: /curso/drupal-para-desenvolvedores-2/
 title: "Drupal para Desenvolvedores II"
-layout: single
+layout: courses
 number: 6
 header:
   image: /assets/images/headers/header-012.jpg

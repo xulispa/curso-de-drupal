@@ -44,6 +44,7 @@ h2 {
 
 h3 {
   font-size: $h-size-3;
+  margin: 2em 0;
 }
 
 h4 {
@@ -126,6 +127,7 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
   &:focus {
     @extend %tab-focus;
   }

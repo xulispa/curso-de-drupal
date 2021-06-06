@@ -1,7 +1,7 @@
 ---
 permalink: /curso/construcao-de-site-com-drupal/
 title: "Construção de Site com Drupal"
-layout: single
+layout: courses
 number: 2
 header:
   image: /assets/images/headers/header-008.jpg

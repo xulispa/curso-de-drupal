@@ -1,7 +1,7 @@
 ---
 permalink: /curso/estrategias-para-construcao-de-um-time-drupal/
 title: "Estratégias para construção de um time Drupal"
-layout: single
+layout: courses
 number: 10
 header:
   image: /assets/images/headers/header-016.jpg

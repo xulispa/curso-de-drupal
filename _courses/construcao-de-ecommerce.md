@@ -1,7 +1,7 @@
 ---
 permalink: /curso/construcao-de-ecommerce-com-drupal/
 title: "Construção de e-commerce com Drupal"
-layout: single
+layout: courses
 number: 11
 header:
   image: /assets/images/headers/header-017.jpg
