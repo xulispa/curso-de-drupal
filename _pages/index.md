@@ -25,7 +25,7 @@ Além dos cursos listados aqui, também **ministramos cursos personalizados**, c
 
 ------
 
-<h3 align="center">Valores</h3>
+<h3 align="center">Valores praticados</h3>
 
 ------
 
@@ -37,11 +37,12 @@ Além dos cursos listados aqui, também **ministramos cursos personalizados**, c
 
 ------
 
-<h3 align="center">Responsabilidade</h3>
+<h3 align="center">Quem</h3>
 
 ------
 
-O <a href="https://www.youtube.com/cursodedrupal" target="_blank">**Curso de Drupal**</a> é uma iniciativa de <a href="https://www.linkedin.com/in/xulispa/" target="_blank">**Leonardo Silva**</a>, carinhosamente conhecido na comunidade brasileira por <a href="https://drupal.org/u/xulispa" target="_blank">**xulispa**</a>, e tem origem da Spin-off **Drupal de Elite**.
+**Curso de Drupal** é uma iniciativa de <a href="https://www.linkedin.com/in/xulispa/" target="_blank">**Leonardo Silva**</a>, também conhecido na comunidade brasileira por <a href="https://drupal.org/u/xulispa" target="_blank">**xulispa**</a>.
+{: .text-center}
 
 [Acesse agora: CURSO DRUPAL 9 GRÁTIS](https://www.youtube.com/cursodedrupal){: .btn .btn--info .btn--x-large}{: target="_blank"}
 {: .text-center}
