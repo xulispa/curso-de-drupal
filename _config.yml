@@ -6,18 +6,18 @@ baseurl: ''
 repository: xulispa/curso-de-drupal
 email: xulispa@xulispa.com.br
 head_scripts:
-  - 'https://code.jquery.com/jquery-3.2.1.min.js'
-  - /assets/js/curso-de-drupal-head.js
+  # - 'https://code.jquery.com/jquery-3.2.1.min.js'
+  # - /assets/js/curso-de-drupal-head.js
 description: >-
   Os cursos são preparados para um número reduzido de pessoas e ministrados
   exclusivamente online.
 locale: pt-BR
 twitter_username: drupaldeelite
 github_username: xulispa
-facebook:
-  app_id: 317464955533272
-  publisher: drupaldecurso
-  username: drupaldecurso
+# facebook:
+#   app_id: 317464955533272
+#   publisher: drupaldecurso
+#   username: drupaldecurso
 minimal_mistakes_skin: neon
 search: true
 search_full_content: true
