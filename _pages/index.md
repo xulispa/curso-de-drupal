@@ -4,7 +4,7 @@ layout: splash
 classes:
 - landing
 header:
-  overlay_image: "/assets/images/headers/header-01.jpg"
+  overlay_image: /assets/images/headers/header-01.jpg
   overlay_color: "#333"
   overlay_filter: 0.5
   actions:
