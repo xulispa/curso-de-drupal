@@ -51,6 +51,25 @@
       max-width: $max-width;
     }
 
+    .results {
+      display: inline-block;
+
+      .list__item {
+        float: left;
+        display: grid;
+        padding: 0 1em;
+        min-height: 28em;
+
+        @include breakpoint($large) {
+          width: 50%;
+        }
+
+        @include breakpoint($x-large) {
+          width: 33%;
+        }
+      }
+    }
+
   }
 
   &__form {
@@ -89,26 +108,21 @@
   .results__found {
     margin-top: 0.5em;
     font-size: $type-size-6;
+    padding: 0 1.25em;
   }
 
   .archive__item {
     margin-bottom: 2em;
-
-    @include breakpoint($large) {
-      width: 75%;
-    }
-
-    @include breakpoint($x-large) {
-      width: 50%;
-    }
   }
 
   .archive__item-title {
     margin-top: 0;
+    margin-bottom: 0.5em;
   }
 
   .archive__item-excerpt {
     margin-bottom: 0;
+    margin-top: 0.75em;
   }
 }
 
