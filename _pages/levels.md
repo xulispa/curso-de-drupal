@@ -1,6 +1,7 @@
 ---
 title: Níveis
 permalink: "/niveis/"
+exclude_from_search: true
 header:
   image: "/assets/images/headers/header-006.jpg"
   og_image: "/assets/images/level-fbapp.png"

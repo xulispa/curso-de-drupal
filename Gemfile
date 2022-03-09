@@ -16,4 +16,6 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-target-blank"
   gem "jekyll-watch"
+  gem "jekyll-lunr-js-search"
+  gem "octopress"
 end

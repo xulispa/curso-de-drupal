@@ -1,6 +1,15 @@
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: neon
+
+# Site settings
+locale: pt-BR
 title: Curso de Drupal
 title_separator: '|'
+# subtitle: Curso de Drupal
 name: Curso de Drupal
+description: >-
+  Os cursos são preparados para um número reduzido de pessoas e ministrados
+  exclusivamente online.
 url: 'https://cursodedrupal.com.br'
 baseurl: ''
 repository: xulispa/curso-de-drupal
@@ -8,19 +17,25 @@ email: xulispa@xulispa.com.br
 head_scripts:
   # - 'https://code.jquery.com/jquery-3.2.1.min.js'
   # - /assets/js/curso-de-drupal-head.js
-description: >-
-  Os cursos são preparados para um número reduzido de pessoas e ministrados
-  exclusivamente online.
-locale: pt-BR
 twitter_username: drupaldeelite
 github_username: xulispa
 # facebook:
 #   app_id: 317464955533272
 #   publisher: drupaldecurso
 #   username: drupaldecurso
-minimal_mistakes_skin: neon
 search: true
 search_full_content: true
+search_provider: lunr
+lunr:
+  files_to_exclude:
+    - _posts/2021-05-30-curso-de-drupal-no-ar.md
+    - _pages/404.md
+    - _pages/blog.md
+    - _pages/category-archive.md
+    - _pages/contact.md
+    - _pages/levels.md
+    - _pages/tag-archive.md
+    - _pages/year-archive.md
 logo: /assets/images/logo.png
 og_image: /assets/images/1200x1200.png
 analytics:
@@ -29,7 +44,6 @@ analytics:
     tracking_id: UA-34092520-1
     anonymize_ip: false
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
 permalink: '/:categories/:title/'
 paginate: 5
 paginate_path: '/page:num/'
@@ -49,6 +63,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-watch
+  - jekyll-lunr-js-search
 author:
   links:
     - label: Drupal.org
@@ -85,7 +100,7 @@ footer:
       url: 'mailto:xulispa@xulispa.com.br'
 defaults:
   - scope:
-      path: ''
+      path: _courses
       type: courses
     values:
       layout: courses
@@ -96,7 +111,7 @@ defaults:
       sidebar:
         nav: courses
   - scope:
-      path: ''
+      path: _posts
       type: posts
     values:
       layout: single
