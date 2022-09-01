@@ -1,5 +1,5 @@
 ---
-permalink: /curso/seguranca-performance-e-escalabilidade-com-drupal/
+permalink: /cursos/seguranca-performance-e-escalabilidade-com-drupal/
 title: "Segurança, Performance e Escalabilidade com Drupal"
 layout: courses
 number: 8

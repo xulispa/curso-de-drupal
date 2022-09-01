@@ -8,12 +8,12 @@
 
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: calc(100% - #{$right-sidebar-width-narrow} - 4px);
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: calc(100% - #{$right-sidebar-width} - 2px);
     padding-right: $right-sidebar-width;
   }
 }
@@ -228,13 +228,13 @@
     @include breakpoint($small) {
       max-height: 170px;
       align-items: center;
-      display: flex;    
+      display: flex;
     }
 
     @include breakpoint($medium) {
       max-height: 170px;
       align-items: center;
-      display: flex;    
+      display: flex;
     }
   }
 }

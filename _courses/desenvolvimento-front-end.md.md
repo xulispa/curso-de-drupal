@@ -1,5 +1,5 @@
 ---
-permalink: /curso/desenvolvimento-front-end-com-drupal/
+permalink: /cursos/desenvolvimento-front-end-com-drupal/
 title: "Desenvolvimento de Temas Drupal"
 layout: courses
 number: 4

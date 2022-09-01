@@ -1,0 +1,20 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<h3 class="text-center">Aulas</h3>
+
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout }}">
+  {% include free-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
+
+<hr class="cf">
+
+<h3 class="text-center">Extras</h3>
+
+<div class="entries-{{ entries_layout }}">
+  {% include free-collection.html collection=page.extras sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
