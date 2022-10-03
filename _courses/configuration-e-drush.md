@@ -1,5 +1,5 @@
 ---
-permalink: /curso/desenvolvimento-drupal-com-configuration-e-drush/
+permalink: /cursos/desenvolvimento-drupal-com-configuration-e-drush/
 title: "Desenvolvimento Drupal com Configuration e Drush"
 layout: courses
 number: 7

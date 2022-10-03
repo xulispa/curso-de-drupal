@@ -1,5 +1,5 @@
 ---
-permalink: /curso/introducao-ao-drupal/
+permalink: /cursos/introducao-ao-drupal/
 title: "Introdução ao Drupal"
 layout: courses
 number: 1

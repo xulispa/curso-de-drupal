@@ -1,5 +1,5 @@
 ---
-permalink: /curso/drupal-para-desenvolvedores-1/
+permalink: /cursos/drupal-para-desenvolvedores-1/
 title: "Drupal para Desenvolvedores I"
 layout: courses
 number: 3

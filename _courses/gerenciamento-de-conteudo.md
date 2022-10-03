@@ -1,5 +1,5 @@
 ---
-permalink: /curso/gerenciamento-de-conteudo-com-drupal/
+permalink: /cursos/gerenciamento-de-conteudo-com-drupal/
 title: "Gerenciamento de Conteúdo com Drupal"
 layout: courses
 number: 5

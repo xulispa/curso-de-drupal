@@ -1,39 +1,70 @@
 main:
-  - title: "Curso"
-    url: /curso/
-  # - title: "Contato"
-  #   url: /contato/
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Curso Drupal 9 Gráts"
+    url: /curso-d9-gratis/
+  - title: "Lista de cursos"
+    url: /cursos/
+  - title: "Contato"
+    url: /contato/
 
 courses:
   - title: "Básico"
     children:
       - title: "Introdução ao Drupal"
-        url: /curso/introducao-ao-drupal/
+        url: /cursos/introducao-ao-drupal/
       - title: "Construção de Site com Drupal"
-        url: /curso/construcao-de-site-com-drupal/
+        url: /cursos/construcao-de-site-com-drupal/
 
   - title: "Intermediário"
     children:
       - title: "Drupal para Desenvolvedores I"
-        url: /curso/drupal-para-desenvolvedores-1/
+        url: /cursos/drupal-para-desenvolvedores-1/
       - title: "Desenvolvimento de Temas Drupal"
-        url: /curso/desenvolvimento-front-end-com-drupal/
+        url: /cursos/desenvolvimento-front-end-com-drupal/
       - title: "Gerenciamento de Conteúdo com Drupal"
-        url: /curso/gerenciamento-de-conteudo-com-drupal/
+        url: /cursos/gerenciamento-de-conteudo-com-drupal/
 
   - title: "Avançado"
     children:
       - title: "Drupal para Desenvolvedores II"
-        url: /curso/drupal-para-desenvolvedores-2/
+        url: /cursos/drupal-para-desenvolvedores-2/
       - title: "Desenvolvimento Drupal com Configuration e Drush"
-        url: /curso/desenvolvimento-drupal-com-configuration-e-drush/
+        url: /cursos/desenvolvimento-drupal-com-configuration-e-drush/
       - title: "Segurança, Performance e Escalabilidade com Drupal"
-        url: /curso/seguranca-performance-e-escalabilidade-com-drupal/
+        url: /cursos/seguranca-performance-e-escalabilidade-com-drupal/
       - title: "Git, Controle de Versão Distribuído"
-        url: /curso/git-controle-de-versao-distribuido/
+        url: /cursos/git-controle-de-versao-distribuido/
       - title: "Estratégias para construção de um time Drupal"
-        url: /curso/estrategias-para-construcao-de-um-time-drupal/
+        url: /cursos/estrategias-para-construcao-de-um-time-drupal/
       - title: "Construção de e-commerce com Drupal"
-        url: /curso/construcao-de-ecommerce-com-drupal/
+        url: /cursos/construcao-de-ecommerce-com-drupal/
+
+free:
+  - title: "Aulas"
+    children:
+      - title: "Ambiente, conceitos, instalação e visão geral"
+        url: /curso-d9-gratis/ambiente-conceitos-instalacao-e-visao-geral/
+      - title: "Tipos de conteúdo, funções standard, adicionais sobre instalação"
+        url: /curso-d9-gratis/tipos-de-conteudo-funcoes-standard-adicionais-sobre-instalacao/
+      - title: "Tradução, usuários e tipos de conteúdo, incluindo adicionais"
+        url: /curso-d9-gratis/traducao-usuarios-e-tipos-de-conteudo-incluindo-adicionais/
+      - title: "Módulos essenciais, workflow, conteúdo estático e dinâmico"
+        url: /curso-d9-gratis/modulos-essenciais-workflow-conteúdo-estatico-e-dinamico/
+      - title: "Exibições de conteúdo, blocos, tarefas agendadas"
+        url: /curso-d9-gratis/exibicoes-de-conteudo-blocos-tarefas-agendadas/
+      - title: "Manipulação de mídia: áudio, imagem e vídeo"
+        url: /curso-d9-gratis/manipulacao-de-midia-audio-imagem-e-video/
+      - title: "Views, exibições dinâmicas, filtros contextuais"
+        url: /curso-d9-gratis/views-exibicoes-dinamicas-filtros-contextuais/
+      - title: "Introdução ao desenvolvimento de temas"
+        url: /curso-d9-gratis/introducao-ao-desenvolvimento-de-temas/
+      - title: "Gerenciamento de configurações"
+        url: /curso-d9-gratis/gerenciamento-de-configuracoes/
+      - title: "Deploy e publicação"
+        url: /curso-d9-gratis/deploy-e-publicacao/
+
+  - title: "Extras"
+    children:
+      - title: "Respondendo perguntas - Aula 01"
+        url: /curso-d9-gratis/respondendo-perguntas-aula-01/
+      - title: "Complementar - Aulas 01 e 02"
+        url: /curso-d9-gratis/complemenar-aulas-01-e-02/

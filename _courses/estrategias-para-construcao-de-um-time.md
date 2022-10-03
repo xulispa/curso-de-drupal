@@ -1,5 +1,5 @@
 ---
-permalink: /curso/estrategias-para-construcao-de-um-time-drupal/
+permalink: /cursos/estrategias-para-construcao-de-um-time-drupal/
 title: "Estratégias para construção de um time Drupal"
 layout: courses
 number: 10

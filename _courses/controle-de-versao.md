@@ -1,5 +1,5 @@
 ---
-permalink: /curso/git-controle-de-versao-distribuido/
+permalink: /cursos/git-controle-de-versao-distribuido/
 title: "Git, Controle de Versão Distribuído"
 layout: courses
 number: 9

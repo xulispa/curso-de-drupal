@@ -38,12 +38,12 @@ body {
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: calc(100% - #{$right-sidebar-width-narrow} - 4px);
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: calc(100% - #{$right-sidebar-width} - 2px);
     padding-right: $right-sidebar-width;
   }
 
@@ -155,11 +155,23 @@ body {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+}
+
+.layout--splash {
+
+  .page__content {
+
+    hr {
+      max-width: 66%;
+      margin: 1em auto;
+    }
+  }
 }
 
 .page__hero {
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;

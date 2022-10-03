@@ -1,5 +1,5 @@
 ---
-permalink: /curso/construcao-de-site-com-drupal/
+permalink: /cursos/construcao-de-site-com-drupal/
 title: "Construção de Site com Drupal"
 layout: courses
 number: 2

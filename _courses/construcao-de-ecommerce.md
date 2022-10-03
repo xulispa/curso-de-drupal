@@ -1,5 +1,5 @@
 ---
-permalink: /curso/construcao-de-ecommerce-com-drupal/
+permalink: /cursos/construcao-de-ecommerce-com-drupal/
 title: "Construção de e-commerce com Drupal"
 layout: courses
 number: 11
