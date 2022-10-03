@@ -38,8 +38,10 @@
   (danger, $danger-color),
   (info, $info-color),
   (facebook, $facebook-color),
+  (telegram, $telegram-color),
   (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (whatsapp, $whatsapp-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {

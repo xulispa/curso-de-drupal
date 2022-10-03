@@ -24,11 +24,11 @@
 
   ol {
     padding: 0;
+    margin: 0;
     list-style: none;
     font-size: $type-size-6;
 
     @include breakpoint($large) {
-      float: right;
       width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
@@ -119,12 +119,11 @@
 
   /* next/previous buttons */
   &--pager {
-    display: block;
+    display: inline-block;
     padding: 1em 2em;
-    float: left;
-    width: 50%;
+    width: 35%;
     font-family: $sans-serif;
-    font-size: $type-size-5;
+    font-size: $type-size-7;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
@@ -133,24 +132,21 @@
     border-radius: $border-radius;
 
     &:hover {
-      @include yiq-contrasted($muted-text-color);
-    }
-
-    &:first-child {
-      border-top-right-radius: 0;
-      border-bottom-right-radius: 0;
-    }
-
-    &:last-child {
-      margin-left: -1px;
-      border-top-left-radius: 0;
-      border-bottom-left-radius: 0;
+      @include yiq-contrasted($link-color-visited);
     }
 
     &.disabled {
       color: rgba($muted-text-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
+    }
+
+    &.previous {
+      float: left;
+    }
+
+    &.next {
+      float: right;
     }
   }
 }
@@ -200,8 +196,8 @@
       margin-left: 0;
     }
   }
-  
-  img{
+
+  img {
     -webkit-transition: none;
     transition: none;
   }
@@ -443,12 +439,13 @@
 
   a {
     color: inherit;
+
+    &:hover {
+      color: $light-gray;
+    }
   }
 
   .active {
-    margin-left: -0.5em;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
     font-weight: bold;
   }
 

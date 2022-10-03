@@ -296,6 +296,11 @@ body:hover .visually-hidden button {
     color: $stackoverflow-color;
   }
 
+  .fa-telegram,
+  .fa-telegram-square {
+    color: $telegram-color;
+  }
+
   .fa-tumblr,
   .fa-tumblr-square {
     color: $tumblr-color;
@@ -318,6 +323,11 @@ body:hover .visually-hidden button {
 
   .fa-youtube {
     color: $youtube-color;
+  }
+
+  .fa-whatsapp,
+  .fa-whatsapp-square {
+    color: $xing-color;
   }
 
   .fa-xing,

@@ -1,6 +1,6 @@
 ---
-permalink: /curso/
-title: "Curso"
+permalink: /cursos/
+title: "Lista de cursos"
 author_profile: false
 layout: collection
 collection: courses
