@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
+gem "webrick"
 gem "wdm" if Gem.win_platform?
 
 group :jekyll_plugins do
