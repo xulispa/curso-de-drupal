@@ -10,10 +10,10 @@ header:
   video:
     id: e68-Vc1tdZ0
     provider: youtube
-youtubeurl: https://youtu.be/e68-Vc1tdZ0
+youtube: https://youtu.be/e68-Vc1tdZ0
 ---
 
-{% youtube page.youtubeurl %}
+{% youtube page.youtube %}
 
 ---
 
