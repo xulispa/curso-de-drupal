@@ -10,10 +10,10 @@ header:
   video:
     id: CPO0_34SwXc
     provider: youtube
-youtube: https://youtu.be/CPO0_34SwXc
+youtubeurl: https://youtu.be/CPO0_34SwXc
 ---
 
-{% youtube page.youtube %}
+{% include youtube.html page.header.video.id %}
 
 ---
 
