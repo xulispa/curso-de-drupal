@@ -13,7 +13,7 @@ header:
 youtubeurl: https://youtu.be/3CLAUbHMwj4
 ---
 
-{% include youtube.html page.header.video.id %}
+{% include youtube.html id=page.header.video.id %}
 
 ---
 

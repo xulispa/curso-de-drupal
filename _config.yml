@@ -138,10 +138,10 @@ defaults:
 collections:
   courses:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/:collection/:path'
   free:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/:collection/:path'
   extra:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/:collection/:path'
