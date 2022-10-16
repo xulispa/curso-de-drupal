@@ -4,6 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "webrick"
+gem "activesupport", "~>4.1"
 gem "wdm" if Gem.win_platform?
 
 group :jekyll_plugins do
