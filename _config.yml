@@ -56,7 +56,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-watch
-  - jekyll-lunr-js-search
   - jekyll-youtube
   - octopress
 author:
